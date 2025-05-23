@@ -68,5 +68,4 @@ while True:
     if erros == 6: 
         
         print(" Enforcado!" ) 
-        print(f"Palavra secreta: {palavra}")
         break 
